@@ -1,0 +1,40 @@
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\bin\Debug\CHAT.exe.config
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\bin\Debug\CHAT.exe
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\bin\Debug\CHAT.pdb
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\obj\Debug\SERVER.csprojResolveAssemblyReference.cache
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\obj\Debug\CHAT.Form1.resources
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\obj\Debug\CHAT.Properties.Resources.resources
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\obj\Debug\CHAT.exe
+C:\Users\Kuong Fam\Documents\Visual Studio 2017\CHAT\CHAT\obj\Debug\CHAT.pdb
+C:\Users\ngant\Downloads\CHAT\CHAT\bin\Debug\CHAT.exe.config
+C:\Users\ngant\Downloads\CHAT\CHAT\bin\Debug\CHAT.exe
+C:\Users\ngant\Downloads\CHAT\CHAT\bin\Debug\CHAT.pdb
+C:\Users\ngant\Downloads\CHAT\CHAT\obj\Debug\SERVER.csprojAssemblyReference.cache
+C:\Users\ngant\Downloads\CHAT\CHAT\obj\Debug\CHAT.Form1.resources
+C:\Users\ngant\Downloads\CHAT\CHAT\obj\Debug\CHAT.Properties.Resources.resources
+C:\Users\ngant\Downloads\CHAT\CHAT\obj\Debug\SERVER.csproj.GenerateResource.cache
+C:\Users\ngant\Downloads\CHAT\CHAT\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+C:\Users\ngant\Downloads\CHAT\CHAT\obj\Debug\CHAT.exe
+C:\Users\ngant\Downloads\CHAT\CHAT\obj\Debug\CHAT.pdb
+F:\HỆ ĐIỀU HÀNH\BÀI TẬP NHÓM\CHAT\CHAT\bin\Debug\CHAT.exe.config
+F:\HỆ ĐIỀU HÀNH\BÀI TẬP NHÓM\CHAT\CHAT\bin\Debug\CHAT.exe
+F:\HỆ ĐIỀU HÀNH\BÀI TẬP NHÓM\CHAT\CHAT\bin\Debug\CHAT.pdb
+F:\HỆ ĐIỀU HÀNH\BÀI TẬP NHÓM\CHAT\CHAT\obj\Debug\SERVER.csprojAssemblyReference.cache
+F:\HỆ ĐIỀU HÀNH\BÀI TẬP NHÓM\CHAT\CHAT\obj\Debug\CHAT.Form1.resources
+F:\HỆ ĐIỀU HÀNH\BÀI TẬP NHÓM\CHAT\CHAT\obj\Debug\CHAT.Properties.Resources.resources
+F:\HỆ ĐIỀU HÀNH\BÀI TẬP NHÓM\CHAT\CHAT\obj\Debug\SERVER.csproj.GenerateResource.cache
+F:\HỆ ĐIỀU HÀNH\BÀI TẬP NHÓM\CHAT\CHAT\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+F:\HỆ ĐIỀU HÀNH\BÀI TẬP NHÓM\CHAT\CHAT\obj\Debug\CHAT.exe
+F:\HỆ ĐIỀU HÀNH\BÀI TẬP NHÓM\CHAT\CHAT\obj\Debug\CHAT.pdb
+F:\HỆ ĐIỀU HÀNH\BÀI TẬP NHÓM\Chat_Website\CHAT\bin\Debug\CHAT.exe.config
+F:\HỆ ĐIỀU HÀNH\BÀI TẬP NHÓM\Chat_Website\CHAT\bin\Debug\CHAT.exe
+F:\HỆ ĐIỀU HÀNH\BÀI TẬP NHÓM\Chat_Website\CHAT\bin\Debug\CHAT.pdb
+F:\HỆ ĐIỀU HÀNH\BÀI TẬP NHÓM\Chat_Website\CHAT\obj\Debug\SERVER.csprojAssemblyReference.cache
+F:\HỆ ĐIỀU HÀNH\BÀI TẬP NHÓM\Chat_Website\CHAT\obj\Debug\CHAT.Form1.resources
+F:\HỆ ĐIỀU HÀNH\BÀI TẬP NHÓM\Chat_Website\CHAT\obj\Debug\CHAT.Properties.Resources.resources
+F:\HỆ ĐIỀU HÀNH\BÀI TẬP NHÓM\Chat_Website\CHAT\obj\Debug\SERVER.csproj.GenerateResource.cache
+F:\HỆ ĐIỀU HÀNH\BÀI TẬP NHÓM\Chat_Website\CHAT\obj\Debug\SERVER.csproj.CoreCompileInputs.cache
+F:\HỆ ĐIỀU HÀNH\BÀI TẬP NHÓM\Chat_Website\CHAT\obj\Debug\CHAT.exe
+F:\HỆ ĐIỀU HÀNH\BÀI TẬP NHÓM\Chat_Website\CHAT\obj\Debug\CHAT.pdb
